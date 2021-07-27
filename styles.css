@@ -1,0 +1,9 @@
+body {
+  background-color: #1e1e1e;
+  color: antiquewhite;
+}
+
+.page__main {
+  width: 500px;
+  margin: 0 auto;
+}
